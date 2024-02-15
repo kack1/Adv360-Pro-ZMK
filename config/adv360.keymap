@@ -80,11 +80,11 @@
 
         layer_Raise {
             bindings = <
-  &none   &none   &none   &none   &none   &none             &none                                                   &none   &none   &none   &none   &none   &none  &trans
- &trans   &none   &none   &none   &none   &none            &trans                                                  &trans   &none   &none   &none   &none   &none  &trans
- &trans   &none   &none   &none   &none   &none            &trans  &trans  &trans                  &trans  &trans  &trans   &none   &none   &none   &none   &none  &trans
- &trans   &none   &none   &none   &none   &none                            &trans                  &trans                   &none   &none   &none   &none   &none  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &kp DOLLAR  &kp AMPERSAND  &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_PARENTHESIS            &kp KP_EQUAL                                                  &kp ASTERISK  &kp RIGHT_PARENTHESIS  &kp PLUS  &kp RIGHT_BRACKET  &kp EXCLAMATION  &kp HASH  &trans
+     &trans          &none             &none           &none            &none                 &none                  &trans                                                        &trans                  &none     &none              &none            &none     &none  &trans
+     &trans          &none             &none           &none            &none                 &none                  &trans  &trans  &trans                  &trans  &trans        &trans                  &none     &none              &none            &none     &none  &trans
+     &trans          &none             &none           &none            &none                 &none                                  &trans                  &trans                                        &none     &none              &none            &none     &none  &trans
+     &trans         &trans            &trans          &trans           &trans                                        &trans  &trans  &trans                  &trans  &trans        &trans                           &trans             &trans           &trans    &trans  &trans
             >;
         };
 
