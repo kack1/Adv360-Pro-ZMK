@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
- &kp EQUAL   &kp KP_NUMBER_9  &kp KP_NUMBER_7  &kp KP_NUMBER_5  &kp KP_NUMBER_3  &kp KP_NUMBER_1               &tog 1                                                                                 &mo 3  &kp KP_NUMBER_0  &kp KP_NUMBER_2  &kp KP_NUMBER_4  &kp KP_NUMBER_6  &kp KP_NUMBER_8     &kp GRAVE
-   &kp TAB  &kp SINGLE_QUOTE        &kp COMMA          &kp DOT            &kp P            &kp Y                &none                                                                                 &none            &kp F            &kp G            &kp C            &kp R            &kp L  &kp QUESTION
-   &kp ESC             &kp A            &kp O            &kp E            &kp U            &kp I                &none          &mo 4  &kp LEFT_ALT                  &kp RIGHT_ALT  &kp RIGHT_WIN      &none            &kp D            &kp H            &kp T            &kp N            &kp S     &kp MINUS
- &kp LSHFT     &kp SEMICOLON            &kp Q            &kp J            &kp K            &kp X                                          &kp HOME                      &kp PG_UP                                      &kp B            &kp M            &kp W            &kp V            &kp Z     &kp RSHFT
-     &mo 2         &kp GRAVE         &kp CAPS         &kp LEFT        &kp RIGHT                             &kp LCTRL  &kp BACKSPACE       &kp END                      &kp PG_DN      &kp SPACE  &kp ENTER                            &kp UP         &kp DOWN         &kp LBKT         &kp RBKT         &mo 2
+ &kp EQUAL      &kp NUMBER_9  &kp NUMBER_7  &kp NUMBER_5  &kp NUMBER_3  &kp NUMBER_1               &tog 1                                                                                 &mo 3  &kp NUMBER_0  &kp NUMBER_2  &kp NUMBER_4  &kp NUMBER_6  &kp NUMBER_8     &kp GRAVE
+   &kp TAB  &kp SINGLE_QUOTE     &kp COMMA       &kp DOT         &kp P         &kp Y                &none                                                                                 &none         &kp F         &kp G         &kp C         &kp R         &kp L  &kp QUESTION
+   &kp ESC             &kp A         &kp O         &kp E         &kp U         &kp I                &none          &mo 4  &kp LEFT_ALT                  &kp RIGHT_ALT  &kp RIGHT_WIN      &none         &kp D         &kp H         &kp T         &kp N         &kp S     &kp MINUS
+ &kp LSHFT     &kp SEMICOLON         &kp Q         &kp J         &kp K         &kp X                                          &kp HOME                      &kp PG_UP                                   &kp B         &kp M         &kp W         &kp V         &kp Z     &kp RSHFT
+     &mo 2         &kp GRAVE      &kp CAPS      &kp LEFT     &kp RIGHT                          &kp LCTRL  &kp BACKSPACE       &kp END                      &kp PG_DN      &kp SPACE  &kp ENTER                      &kp UP      &kp DOWN      &kp LBKT      &kp RBKT         &mo 2
             >;
         };
 
