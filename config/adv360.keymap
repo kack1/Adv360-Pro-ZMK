@@ -80,11 +80,11 @@
 
         layer_Raise {
             bindings = <
- &kp DOLLAR      &kp AMPERSAND  &kp LEFT_BRACKET    &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_PARENTHESIS            &kp KP_EQUAL                                                  &kp ASTERISK  &kp RIGHT_PARENTHESIS  &kp PLUS  &kp RIGHT_BRACKET  &kp EXCLAMATION  &kp HASH  &trans
-     &trans  &kp DOUBLE_QUOTES     &kp LESS_THAN  &kp GREATER_THAN        &kp LS(P)                 &kp Y                  &trans                                                        &trans                  &kp F     &kp G              &kp C            &kp R     &kp L  &trans
-     &trans              &kp A             &kp O             &kp E            &kp U                 &kp I                  &trans  &trans  &trans                  &trans  &trans        &trans                  &kp D     &kp H              &kp T            &kp N     &kp S  &trans
-     &trans          &kp COLON             &kp Q             &kp J            &kp K                 &kp X                                  &trans                  &trans                                        &kp B     &kp M              &kp W            &kp V     &kp Z  &trans
-     &trans             &trans            &trans            &trans           &trans                                        &trans  &trans  &trans                  &trans  &trans        &trans                           &trans             &trans           &trans    &trans  &trans
+ &kp DOLLAR      &kp AMPERSAND  &kp LEFT_BRACKET    &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_PARENTHESIS            &kp KP_EQUAL                                                  &kp ASTERISK  &kp RIGHT_PARENTHESIS   &kp PLUS  &kp RIGHT_BRACKET  &kp EXCLAMATION   &kp HASH  &trans
+     &trans  &kp DOUBLE_QUOTES     &kp LESS_THAN  &kp GREATER_THAN        &kp LS(P)             &kp LS(Y)                  &trans                                                        &trans              &kp LS(F)  &kp LS(G)          &kp LS(C)        &kp LS(R)  &kp LS(L)  &trans
+     &trans          &kp LS(A)         &kp LS(O)         &kp LS(E)        &kp LS(U)             &kp LS(I)                  &trans  &trans  &trans                  &trans  &trans        &trans              &kp LS(D)  &kp LS(H)          &kp LS(T)        &kp LS(N)  &kp LS(S)  &trans
+     &trans          &kp COLON         &kp LS(Q)         &kp LS(J)        &kp LS(K)             &kp LS(X)                                  &trans                  &trans                                    &kp LS(B)  &kp LS(M)          &kp LS(W)        &kp LS(V)  &kp LS(Z)  &trans
+     &trans             &trans            &trans            &trans           &trans                                        &trans  &trans  &trans                  &trans  &trans        &trans                            &trans             &trans           &trans     &trans  &trans
             >;
         };
 
