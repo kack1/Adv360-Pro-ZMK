@@ -28,7 +28,7 @@
             display-name = "Base";
             bindings = <
 &kp GRAVE  &kp N1         &kp N2       &kp N3      &kp N4     &kp N5  &tog 1                                                        &mo 3      &kp N6  &kp N7  &kp N8    &kp N9     &kp N0     &kp TILDE
-&kp TAB    &kp SEMICOLON  &kp COMMA    &kp PERIOD  &kp P      &kp Y   &none                                                         &none      &kp F   &kp G   &kp C     &kp R      &kp L      &kp BSLH
+&kp TAB    &kp SEMICOLON  &kp COMMA    &kp PERIOD  &kp P      &kp Y   &none                                                         &none      &kp F   &kp G   &kp C     &kp R      &kp L      &kp SLASH
 &kp ESC    &kp A          &kp O        &kp E       &kp U      &kp I   &none      &kp LCTRL      &mo 4         &kp LGUI   &kp RCTRL  &none      &kp D   &kp H   &kp T     &kp N      &kp S      &kp MINUS
 &kp LSHFT  &kp SQT        &kp Q        &kp J       &kp K      &kp X                             &kp HOME      &kp PG_UP                        &kp B   &kp M   &kp W     &kp V      &kp Z      &kp RSHFT
 &mo 2      &kp TILDE      &kp PERCENT  &kp LEFT    &kp RIGHT          &kp LCTRL  &kp BACKSPACE  &kp END       &kp PG_DN  &kp SPACE  &kp ENTER          &kp UP  &kp DOWN  &kp SLASH  &kp CARET  &mo 2
@@ -72,7 +72,7 @@
             display-name = "Base";
             bindings = <
 &kp PIPE   &kp PIPE           &kp PLUS       &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp AMPERSAND                                                    &kp EQUAL  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp RIGHT_BRACKET  &kp ASTERISK  &kp TILDE
-&kp TAB    &kp LS(SEMICOLON)  &kp LS(COMMA)  &kp LS(PERIOD)    &kp LS(P)       &kp LS(Y)             &none                                                            &none      &kp LS(F)              &kp LS(G)        &kp LS(C)          &kp LS(R)          &kp LS(L)     &kp LS(BSLH)
+&kp TAB    &kp LS(SEMICOLON)  &kp LS(COMMA)  &kp LS(PERIOD)    &kp LS(P)       &kp LS(Y)             &none                                                            &none      &kp LS(F)              &kp LS(G)        &kp LS(C)          &kp LS(R)          &kp LS(L)     &kp BACKSLASH
 &kp ESC    &kp LS(A)          &kp LS(O)      &kp LS(E)         &kp LS(U)       &kp LS(I)             &none          &kp LEFT_ALT  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp LS(D)              &kp LS(H)        &kp LS(T)          &kp LS(N)          &kp LS(S)     &kp LS(MINUS)
 &kp LSHFT  &kp LS(SQT)        &kp LS(Q)      &kp LS(J)         &kp LS(K)       &kp LS(X)                                          &kp HOME      &kp PG_UP                        &kp LS(B)              &kp LS(M)        &kp LS(W)          &kp LS(V)          &kp LS(Z)     &kp RSHFT
 &mo 2      &kp TILDE          &kp PERCENT    &kp LEFT          &kp RIGHT                             &kp LCTRL      &kp DEL       &kp END       &kp PG_DN  &kp SPACE  &kp ENTER                         &kp UP           &kp DOWN           &kp SLASH          &kp CARET     &mo 2
