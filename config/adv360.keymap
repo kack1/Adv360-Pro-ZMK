@@ -78,27 +78,5 @@
 &mo 2      &kp TILDE          &kp PERCENT    &kp LEFT          &kp RIGHT                             &kp LCTRL      &kp DEL       &kp END       &kp PG_DN  &kp SPACE  &kp ENTER                         &kp UP           &kp DOWN           &kp SLASH          &kp CARET     &mo 2
             >;
         };
-
-        extra1 {
-            display-name = "Red";
-            status = "reserved";
-        };
-
-        extra2 {
-            display-name = "Purple";
-            status = "reserved";
-        };
-
-        extra3 {
-            display-name = "Cyan";
-            status = "reserved";
-        };
-
-        extra4 {
-            display-name = "Yellow";
-            status = "reserved";
-        };
-
-        layer_8 { display-name = "Red"; };
     };
 };
