@@ -27,11 +27,11 @@
         default_layer {
             display-name = "Base";
             bindings = <
-&kp GRAVE  &kp N1         &kp N2       &kp N3      &kp N4     &kp N5  &tog 1                                                    &mo 3      &kp N6  &kp N7  &kp N8    &kp N9     &kp N0     &kp TILDE
-&kp TAB    &kp SEMICOLON  &kp COMMA    &kp PERIOD  &kp P      &kp Y   &none                                                     &none      &kp F   &kp G   &kp C     &kp R      &kp L      &kp BSLH
-&kp ESC    &kp A          &kp O        &kp E       &kp U      &kp I   &none      &kp LCTRL  &mo 4         &kp LGUI   &kp RCTRL  &none      &kp D   &kp H   &kp T     &kp N      &kp S      &kp MINUS
-&kp LSHFT  &kp SQT        &kp Q        &kp J       &kp K      &kp X                         &kp HOME      &kp PG_UP                        &kp B   &kp M   &kp W     &kp V      &kp Z      &kp RSHFT
-&mo 2      &kp TILDE      &kp PERCENT  &kp LEFT    &kp RIGHT          &kp LCTRL  &kp DEL    &kp END       &kp PG_DN  &kp SPACE  &kp ENTER          &kp UP  &kp DOWN  &kp SLASH  &kp CARET  &mo 2
+&kp GRAVE  &kp N1         &kp N2       &kp N3      &kp N4     &kp N5  &tog 1                                                        &mo 3      &kp N6  &kp N7  &kp N8    &kp N9     &kp N0     &kp TILDE
+&kp TAB    &kp SEMICOLON  &kp COMMA    &kp PERIOD  &kp P      &kp Y   &none                                                         &none      &kp F   &kp G   &kp C     &kp R      &kp L      &kp BSLH
+&kp ESC    &kp A          &kp O        &kp E       &kp U      &kp I   &none      &kp LCTRL      &mo 4         &kp LGUI   &kp RCTRL  &none      &kp D   &kp H   &kp T     &kp N      &kp S      &kp MINUS
+&kp LSHFT  &kp SQT        &kp Q        &kp J       &kp K      &kp X                             &kp HOME      &kp PG_UP                        &kp B   &kp M   &kp W     &kp V      &kp Z      &kp RSHFT
+&mo 2      &kp TILDE      &kp PERCENT  &kp LEFT    &kp RIGHT          &kp LCTRL  &kp BACKSPACE  &kp END       &kp PG_DN  &kp SPACE  &kp ENTER          &kp UP  &kp DOWN  &kp SLASH  &kp CARET  &mo 2
             >;
         };
 
