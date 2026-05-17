@@ -31,7 +31,7 @@
 &kp TAB    &kp SEMICOLON  &kp COMMA     &kp PERIOD  &kp P         &kp Y         &none                                                             &none      &kp F   &kp G         &kp C         &kp R         &kp L         &kp SLASH
 &kp ESC    &kp A          &kp O         &kp E       &kp U         &kp I         &none      &mo 4          &kp LEFT_ALT      &kp LGUI   &kp RCTRL  &none      &kp D   &kp H         &kp T         &kp N         &kp S         &kp MINUS
 &kp LSHFT  &kp SQT        &kp Q         &kp J       &kp K         &kp X                                   &kp HOME          &kp PG_UP                        &kp B   &kp M         &kp W         &kp V         &kp Z         &kp RSHFT
-&mo 2      &kp TILDE      &kp PERCENT   &kp LEFT    &kp RIGHT                   &kp LCTRL  &kp BACKSPACE  &kp END           &kp PG_DN  &kp SPACE  &kp ENTER          &kp UP        &kp DOWN      &kp SLASH     &kp CARET     &mo 2
+&mo 2      &kp AT         &kp PERCENT   &kp LEFT    &kp RIGHT                   &kp LCTRL  &kp BACKSPACE  &kp END           &kp PG_DN  &kp SPACE  &kp ENTER          &kp UP        &kp DOWN      &kp QUESTION  &kp CARET     &mo 2
             >;
         };
 
