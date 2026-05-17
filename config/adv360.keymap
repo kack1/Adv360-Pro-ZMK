@@ -71,11 +71,11 @@
         programmers_dvorak {
             display-name = "Base";
             bindings = <
-&kp PIPE   &kp PIPE           &kp PLUS       &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp AMPERSAND                                                    &kp EQUAL  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp ASTRK  &kp EXCLAMATION  &kp TILDE
+&kp PIPE   &kp DOLLAR         &kp PLUS       &kp LEFT_BRACKET  &kp LEFT_BRACE  &kp LEFT_PARENTHESIS  &kp AMPERSAND                                                    &kp EQUAL  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACE  &kp RIGHT_BRACKET  &kp ASTRK  &kp EXCLAMATION  &kp TILDE
 &kp TAB    &kp LS(SEMICOLON)  &kp LS(COMMA)  &kp LS(PERIOD)    &kp LS(P)       &kp LS(Y)             &none                                                            &none      &kp LS(F)              &kp LS(G)        &kp LS(C)          &kp LS(R)  &kp LS(L)        &kp BACKSLASH
 &kp ESC    &kp LS(A)          &kp LS(O)      &kp LS(E)         &kp LS(U)       &kp LS(I)             &none          &kp LEFT_ALT  &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp LS(D)              &kp LS(H)        &kp LS(T)          &kp LS(N)  &kp LS(S)        &kp LS(MINUS)
 &kp LSHFT  &kp LS(SQT)        &kp LS(Q)      &kp LS(J)         &kp LS(K)       &kp LS(X)                                          &kp HOME      &kp PG_UP                        &kp LS(B)              &kp LS(M)        &kp LS(W)          &kp LS(V)  &kp LS(Z)        &kp QUESTION
-&mo 2      &kp TILDE          &kp PERCENT    &kp LEFT          &kp RIGHT                             &kp LCTRL      &kp DEL       &kp END       &kp PG_DN  &kp SPACE  &kp ENTER                         &kp UP           &kp DOWN           &kp SLASH  &kp CARET        &mo 2
+&mo 2      &kp AT             &kp PERCENT    &kp LEFT          &kp RIGHT                             &kp LCTRL      &kp DEL       &kp END       &kp PG_DN  &kp SPACE  &kp ENTER                         &kp UP           &kp DOWN           &kp SLASH  &kp CARET        &mo 2
             >;
         };
     };
